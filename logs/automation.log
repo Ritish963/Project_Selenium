@@ -1,0 +1,24 @@
+14:28:01.432 [main] INFO  testCases.RegistrationPageTest - opening home page
+14:28:01.989 [main] INFO  testCases.RegistrationPageTest - enter registration details
+14:28:03.331 [main] INFO  testCases.RegistrationPageTest - confirm message if displayed
+14:29:16.172 [main] INFO  testCases.RegistrationPageTest - opening home page
+14:29:16.706 [main] INFO  testCases.RegistrationPageTest - enter registration details
+14:29:18.167 [main] INFO  testCases.RegistrationPageTest - confirm message if displayed
+14:29:49.457 [main] INFO  testCases.RegistrationPageTest - opening home page
+14:29:49.945 [main] INFO  testCases.RegistrationPageTest - enter registration details
+14:29:51.318 [main] INFO  testCases.RegistrationPageTest - confirm message if displayed
+14:33:27.322 [main] INFO  testCases.RegistrationPageTest - opening home page
+14:33:27.802 [main] INFO  testCases.RegistrationPageTest - enter registration details
+14:33:29.074 [main] INFO  testCases.RegistrationPageTest - Account created
+14:34:04.306 [main] INFO  testCases.RegistrationPageTest - opening home page
+14:34:04.924 [main] INFO  testCases.RegistrationPageTest - enter registration details
+14:34:06.350 [main] ERROR testCases.RegistrationPageTest - error
+14:34:24.269 [main] INFO  testCases.RegistrationPageTest - opening home page
+14:34:24.829 [main] INFO  testCases.RegistrationPageTest - enter registration details
+14:34:26.067 [main] ERROR testCases.RegistrationPageTest - error
+14:35:55.511 [main] INFO  testCases.RegistrationPageTest - opening home page
+14:35:55.971 [main] INFO  testCases.RegistrationPageTest - enter registration details
+14:35:57.315 [main] ERROR testCases.RegistrationPageTest - error
+14:37:19.794 [main] INFO  testCases.RegistrationPageTest - opening home page
+14:37:20.374 [main] INFO  testCases.RegistrationPageTest - enter registration details
+14:37:21.736 [main] ERROR testCases.RegistrationPageTest - error
